@@ -1,5 +1,5 @@
 [package]
-name = "merkle-subset"
+name = "Merkle-subset"
 version = "0.1.0"
 edition = "2021"
 
